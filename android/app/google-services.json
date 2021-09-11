@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "251592560704",
+    "firebase_url": "https://appservicesclub-default-rtdb.firebaseio.com",
+    "project_id": "appservicesclub",
+    "storage_bucket": "appservicesclub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251592560704:android:06150aedaaa35671ca0fa5",
+        "android_client_info": {
+          "package_name": "com.findgeo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251592560704-03qhi663klqdjrop4jj5ba6483ti2vcq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ0cABqXaQZ3QCB5-ZJ9Byqj6VRCou1cQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251592560704-03qhi663klqdjrop4jj5ba6483ti2vcq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
